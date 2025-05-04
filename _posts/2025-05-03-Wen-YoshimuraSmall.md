@@ -157,14 +157,16 @@ Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchick
  <p style="text-align: left; font-family: sans-serif; font-size: 12">
   City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic <br> 
-  NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br> <br>
+  NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc </p> <br> <br>
 
-  The Subway ridership data used to normalize the arrest data is from: <br>
+  <h5>The Subway ridership data used to normalize the arrest data is from:</h5>
+  <p style="text-align: left; font-family: sans-serif; font-size: 12">
   MTA. (2023). Subway and bus ridership for 2023. MTA. https://www.mta.info/agency/new-york-city-transit/subway-bus-ridership-2023 <br> 
   MTA. (2025, March 5). MTA Subway Hourly Ridership: 2020-2024. Retrieved from
-https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s  <br> <br>
+https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s </p>  <br> <br>
 
-  Demographic data for the triptych is from: <br>
+  <h5>Demographic data for the triptych is from:</h5> 
+  <p style="text-align: left; font-family: sans-serif; font-size: 12">
   NYC Opportunity. (2019). Data Tool - NYC Opportunity. Www.nyc.gov. https://www.nyc.gov/site/opportunity/poverty-in-nyc/data-tool.page <br>
   NYC Department of the Aging. (2020). Demographics by Neighborhood Tabulation Area (NTA). https://www.nyc.gov/assets/dfta/downloads/pdf/reports/Demographics_by_NTA.pdf 
   
