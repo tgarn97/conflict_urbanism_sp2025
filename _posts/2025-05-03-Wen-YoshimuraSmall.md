@@ -86,7 +86,6 @@ Safety, like security, is about collective management (Ghertner et al., 2020). S
 </p> 
 
 <h4>Citations</h4>
-<h5>Literature</h5>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
   Allen, J. (2024, March 8). New York to deploy 750 National Guard soldiers to check bags on subway. Reuters. https://www.reuters.com/world/us/new-york-deploy-750-national-guard-soldiers-check-bags-subway-2024-03-06/ <br>
   Baker, A. (2017, December 13). City Police Officers Are Not Reporting All Street Stops, Monitor Says. The New York Times. https://www.nytimes.com/2017/12/13/nyregion/nypd-stop-and-frisk-monitor.html <br>
@@ -141,20 +140,20 @@ Vera Institute. (n.d.). A Look Inside the New York City Police Department Budget
 </p>
   <br> <br>
 
-<h5>Data Sources</h5>
+<h4>Data Sources</h4>
 
 
-<h6>Clips used in the opening video are as follows:</h6> <br>
+<h5>Clips used in the opening video are as follows:</h5> 
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
 TODO TODO TODO 
 </p> <br> <br>
   
-<h6>GIFs in interactive timeline tool are, from top to bottom:</h6> <br> 
+<h5>GIFs in interactive timeline tool are, from top to bottom:</h5> 
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
 Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.
 </p> <br> <br>
 
- <h6>Arrest data on transit for the video triptych of maps is from:</h6> <br> 
+ <h5>Arrest data on transit for the video triptych of maps is from:</h5> 
  <p style="text-align: left; font-family: sans-serif; font-size: 12">
   City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic <br> 
@@ -173,5 +172,4 @@ https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c
   
   <p style="text-align: left; font-family: sans-serif; font-size: 12">
 * The New York Times archive is scraped using API access and Python tools, but no particular article is singled out as a source because the aggregate is what we analyzed. For now, the Times is credited generally as a publisher.
-  </p>
 </p>
