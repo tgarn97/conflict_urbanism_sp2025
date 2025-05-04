@@ -86,6 +86,7 @@ Safety, like security, is about collective management (Ghertner et al., 2020). S
 </p> 
 
 <h4>Citations</h4>
+<h5>Literature</h5>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
   Allen, J. (2024, March 8). New York to deploy 750 National Guard soldiers to check bags on subway. Reuters. https://www.reuters.com/world/us/new-york-deploy-750-national-guard-soldiers-check-bags-subway-2024-03-06/ <br>
   Baker, A. (2017, December 13). City Police Officers Are Not Reporting All Street Stops, Monitor Says. The New York Times. https://www.nytimes.com/2017/12/13/nyregion/nypd-stop-and-frisk-monitor.html <br>
@@ -94,8 +95,6 @@ How rare is it really? Vital City.
 https://www.vitalcitynyc.org/articles/how-rare-is-crime-on-the-Subway <br>
   Chan, W. (2023, May 12). “It’s a failure of the system”: before Jordan Neely was killed, he was discarded. The Guardian. https://www.theguardian.com/us-news/2023/may/12/jordan-neely-new-york-social-services-support-mental-health <br>
   Chronopoulos, T. (2017). The Making of the Orderly City: New York since the 1980s. Journal of Urban History, 009614421770545. https://doi.org/10.1177/0096144217705459 <br>
-City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
-https://catalog.data.gov/dataset/nypd-arrests-data-historic <br>
   Dyson, I., Ayoub, E., & Jaloza, S. (2024). NYPD Continues to Dodge Surveillance Transparency Laws. Brennan Center for Justice. https://www.brennancenter.org/our-work/analysis-opinion/nypd-continues-dodge-surveillance-transparency-laws <br>
   Ghertner, D.A., McFann, H., and Goldstein, D.M. Security Aesthetics of and beyond the Biopolitical. In Ghertner, D.A., McFann, H., and Goldstein, D.M. (Eds.), Futureproof: Security Aesthetics and the Management of Life, (pp. 1-32). Duke University Press. <br>
   Governor Kathy Hochul. (2025). Safer Subways: One Year After Deploying Additional Law Enforcement and Safety Measures, Governor Hochul Highlights Ongoing Efforts to Keep Riders and Transit Workers Safe on Subways. Governor Kathy Hochul. https://www.governor.ny.gov/news/safer-subways-one-year-after-deploying-additional-law-enforcement-and-safety-measures-governor <br>
@@ -124,8 +123,6 @@ https://www.mta.info/article/mta-customers-count-fall-2024-survey-results <br>
 MTA. (2025, March 5). MTA Subway Hourly Ridership: 2020-2024. Retrieved from
 https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s  <br>
   NYC.gov. (2025, April). Mayor Adams, NYPD Commissioner Tisch Launch new Quality of Life Division to Enhance Public Safety an. The Official Website of the City of New York. https://www.nyc.gov/office-of-the-mayor/news/218-25/mayor-adams-nypd-commissioner-tisch-launch-new-quality-life-division-enhance-public-safety#/0 <br>
-NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from 
-https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br>
 NYPD. (2025, January 6). Crime down across New York City in 2024, with 3,662 fewer crimes. NYPD. 
 https://www.nyc.gov/site/nypd/news/pr001/crime-down-across-new-york-city-2024-3-662-fewer-
 crimes <br>
@@ -145,6 +142,24 @@ Introduction. Urban Studies 60(15): 2963-2978. <br>
 Vera Institute. (n.d.). A Look Inside the New York City Police Department Budget. Vera Institute of Justice. https://www.vera.org/publications/a-look-inside-the-new-york-city-police-department-budget 
   <br> <br>
 
+<h5>Data Sources</h5>
+<p style="text-align: left; font-family: sans-serif; font-size: 12">
+
+Clips used in the opening video are as follows: <br>
+TODO TODO TODO <br> <br>
+  
+  Gifs in interactive timeline tool are, from top to bottom: Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.<br> <br>
+
+  Arrest data for the video triptych of maps is from: <br> 
+  City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
+https://catalog.data.gov/dataset/nypd-arrests-data-historic <br> 
+  NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br> <br>
+
+  Demographic data for the triptych is from: <br>
+  NYC Opportunity. (2019). Data Tool - NYC Opportunity. Www.nyc.gov. https://www.nyc.gov/site/opportunity/poverty-in-nyc/data-tool.page <br>
+  NYC Department of the Aging. (2020). Demographics by Neighborhood Tabulation Area (NTA). https://www.nyc.gov/assets/dfta/downloads/pdf/reports/Demographics_by_NTA.pdf <br> <br>
+  
+  
 * The New York Times archive is scraped using API access and Python tools, but no particular article is singled out as a source because the aggregate is what we analyzed. For now, the Times is credited generally as a publisher.
 
 * NOTE: NEED TO ADD CITATIONS FOR VIDEO/GIF SOURCES! 
