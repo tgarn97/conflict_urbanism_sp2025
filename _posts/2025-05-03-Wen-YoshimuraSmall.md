@@ -138,17 +138,24 @@ Sharpe, C. E. (2016). In the wake : On blackness and being. Duke University Pres
 Tuvikene, T., Sgibnev, W., Kębłowski, W., and Finch, J. (2023). Public transport as public space: 
 Introduction. Urban Studies 60(15): 2963-2978. <br>
 Vera Institute. (n.d.). A Look Inside the New York City Police Department Budget. Vera Institute of Justice. https://www.vera.org/publications/a-look-inside-the-new-york-city-police-department-budget 
+</p>
   <br> <br>
 
 <h5>Data Sources</h5>
+
+
+<h6>Clips used in the opening video are as follows:</h6> <br>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
-
-Clips used in the opening video are as follows: <br>
-TODO TODO TODO <br> <br>
+TODO TODO TODO 
+</p> <br> <br>
   
-  Gifs in interactive timeline tool are, from top to bottom: Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.<br> <br>
+<h6>GIFs in interactive timeline tool are, from top to bottom:</h6> <br> 
+<p style="text-align: left; font-family: sans-serif; font-size: 12">
+Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.
+</p> <br> <br>
 
-  Arrest data on transit for the video triptych of maps is from: <br> 
+ <h6>Arrest data on transit for the video triptych of maps is from:</h6> <br> 
+ <p style="text-align: left; font-family: sans-serif; font-size: 12">
   City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic <br> 
   NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br> <br>
@@ -160,11 +167,11 @@ https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c
 
   Demographic data for the triptych is from: <br>
   NYC Opportunity. (2019). Data Tool - NYC Opportunity. Www.nyc.gov. https://www.nyc.gov/site/opportunity/poverty-in-nyc/data-tool.page <br>
-  NYC Department of the Aging. (2020). Demographics by Neighborhood Tabulation Area (NTA). https://www.nyc.gov/assets/dfta/downloads/pdf/reports/Demographics_by_NTA.pdf <br> <br>
+  NYC Department of the Aging. (2020). Demographics by Neighborhood Tabulation Area (NTA). https://www.nyc.gov/assets/dfta/downloads/pdf/reports/Demographics_by_NTA.pdf 
   
+  </p><br> <br>
   
+  <p style="text-align: left; font-family: sans-serif; font-size: 12">
 * The New York Times archive is scraped using API access and Python tools, but no particular article is singled out as a source because the aggregate is what we analyzed. For now, the Times is credited generally as a publisher.
-
-* NOTE: NEED TO ADD CITATIONS FOR VIDEO/GIF SOURCES! 
-
+  </p>
 </p>
