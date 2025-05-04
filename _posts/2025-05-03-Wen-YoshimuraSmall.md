@@ -120,8 +120,6 @@ MTA. (n.d.). The MTA Network. MTA.
 https://www.mta.info/about-us/the-mta-network. <br>
 MTA. (2025, January 27). MTA Customers Count Fall 2024 Survey Results MTA. 
 https://www.mta.info/article/mta-customers-count-fall-2024-survey-results <br>
-MTA. (2025, March 5). MTA Subway Hourly Ridership: 2020-2024. Retrieved from
-https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s  <br>
   NYC.gov. (2025, April). Mayor Adams, NYPD Commissioner Tisch Launch new Quality of Life Division to Enhance Public Safety an. The Official Website of the City of New York. https://www.nyc.gov/office-of-the-mayor/news/218-25/mayor-adams-nypd-commissioner-tisch-launch-new-quality-life-division-enhance-public-safety#/0 <br>
 NYPD. (2025, January 6). Crime down across New York City in 2024, with 3,662 fewer crimes. NYPD. 
 https://www.nyc.gov/site/nypd/news/pr001/crime-down-across-new-york-city-2024-3-662-fewer-
@@ -150,10 +148,15 @@ TODO TODO TODO <br> <br>
   
   Gifs in interactive timeline tool are, from top to bottom: Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.<br> <br>
 
-  Arrest data for the video triptych of maps is from: <br> 
+  Arrest data on transit for the video triptych of maps is from: <br> 
   City of New York. (2024, April 26). NYPD Arrests Data (Historic). Retrieved from 
 https://catalog.data.gov/dataset/nypd-arrests-data-historic <br> 
   NYPD. (2025, January 27). NYPD Arrest Data (Year to Date) for the Year 2024. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc <br> <br>
+
+  The Subway ridership data used to normalize the arrest data is from: <br>
+  MTA. (2023). Subway and bus ridership for 2023. MTA. https://www.mta.info/agency/new-york-city-transit/subway-bus-ridership-2023 <br> 
+  MTA. (2025, March 5). MTA Subway Hourly Ridership: 2020-2024. Retrieved from
+https://data.ny.gov/Transportation/MTA-Subway-Hourly-Ridership-2020-2024/wujg-7c2s  <br> <br>
 
   Demographic data for the triptych is from: <br>
   NYC Opportunity. (2019). Data Tool - NYC Opportunity. Www.nyc.gov. https://www.nyc.gov/site/opportunity/poverty-in-nyc/data-tool.page <br>
