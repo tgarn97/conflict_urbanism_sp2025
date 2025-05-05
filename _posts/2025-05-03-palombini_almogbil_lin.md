@@ -16,7 +16,7 @@ What you hear is not a restoration. It is a suggestion. A possibility. A disturb
 You are not here to discover. You are here to dwell in the uncertainty. To test what holds, what skips, what resists, not only what was, but what could have been, or should have been heard.<br> <br>
 Do not attempt to follow the map nor a path. Listen instead. Listen beyond hearing, to what resists capture. Toward a past heard in fragments, never in full…<br> <br>
 
-![gif](/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/saudi_map_10.gif)
+![gif saudi map](/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/saudi_map_10.gif)
 <br>
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 Do not attempt to follow the map. <br> <br>
@@ -41,7 +41,7 @@ This project is a screen-based reworking of a now-unavailable virtual tour of Al
   </iframe>
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
-
+<br><br>
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 <b><i>Map Error: Simulation Build 2056</i></b> is a speculative simulation built from a now-unavailable virtual tour of Al-Turaif Heritage Site—a digital interface once designed to guide users through a restored version of the site and its official historical narrative.
 It invites imaginary players into a simulation that becomes increasingly unstable. The virtual environment begins with coherence, but over time, ruptures emerge. New sounds overlay official ones. The logics of space and memory come undone.
