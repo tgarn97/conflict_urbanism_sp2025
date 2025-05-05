@@ -6,7 +6,7 @@ title:  "Sentiments of Safety on the New York City Subway"
 author: "Erin Wen & Timothy Yoshimura Small"
 ---
 
-<video style = "width:650px; height:auto; vertical-align:middle; display: block; margin: 0 auto;" controls>
+<video style = "width:100%; height:auto; vertical-align:middle; display: block; margin: 0 auto;" poster="/conflict_urbanism_sp2025/images/Erin_Tim/subwaysafetyIntroThumb.png" controls>
   <source src="/conflict_urbanism_sp2025/images/Erin_Tim/subwaysafetyIntro.mp4" type="video/mp4">
 </video>
 <p></p> <br> 
@@ -72,7 +72,7 @@ Visible in the below video, the number of quality-of-life arrests broadly increa
 
 </p>
 
-<video style = "width:650px; height:auto; vertical-align:middle; display: block; margin: 0 auto;" controls autoplay loop muted>
+<video style = "width:100%; height:auto; vertical-align:middle; display: block; margin: 0 auto;" controls autoplay loop muted>
   <source src="/conflict_urbanism_sp2025/images/Erin_Tim/OverPolicing.mp4" type="video/mp4">
 </video>
 <p></p>
