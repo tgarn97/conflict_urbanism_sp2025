@@ -116,7 +116,7 @@ TODO TODO TODO
   
 <h5>GIFs in interactive timeline tool are, from top to bottom:</h5> 
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
-Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, FOX5.
+Tenor Gifs, Giphy News, CBS New York, NBC New York, CBS 2 New York, <i>coolchickslovemike</i> on YouTube, ABC 7 New York, The New York Times, FNTV, Forbes, WPIX New York, Forbes, Spectrum News New York, ABC 7 New York, FOX5.
 </p> 
 
  <h5>Arrest data on transit for the video triptych of maps is from:</h5> 
