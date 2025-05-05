@@ -6,27 +6,28 @@ title:  "Map Error: Simulation Build 2056"
 author: "Alhanouf Almogbil, Xinyi Alice Lin, Benedetta von Palombini"
 ---
 
-<p style="text-align: justify; font-family: sans-serif;font-size: 12">
-You find yourself at the intersection of memory, power, and silence.<br><br>
-You enter a city rendered whole—restored walls, polished history, everything where it should be. Al-Turaif loads seamlessly. The past performs itself, but not without tension.<br><br>
-Voices drift in—from elsewhere. A valley long rerouted. A district dense with noise and languages. They don’t appear on this map, yet their presence reverberates through it.<br><br>
-Here, sound is not a backdrop—it is infrastructure, inscription, force. It shapes how space is occupied, narrated, and denied. History is not given; it is produced, negotiated in both omissions and excess.<br><br> 
-In this space, they collide.<br><br>
-What you hear is not a restoration. It is a suggestion. A possibility. A disturbance.<br><br>
-You are not here to discover. You are here to dwell in the uncertainty. To test what holds, what skips, what resists, not only what was, but what could have been, or should have been heard.<br><br>
-Do not attempt to follow the map nor a path. Listen instead. Listen beyond hearing, to what resists capture. Toward a past heard in fragments, never in full.
-<br><br>
-</p>
+<p style="text-align: justify; font-family: sans-serif; font-size: 12">
+You find yourself at the intersection of memory, power, and silence.<br> <br> 
+You enter a city rendered whole—restored walls, polished history, everything where it should be. Al-Turaif loads seamlessly. The past performs itself, but not without tension.<br> <br>
+Voices drift in—from elsewhere. A valley long rerouted. A district dense with noise and languages. They don’t appear on this map, yet their presence reverberates through it.<br> <br>
+Here, sound is not a backdrop—it is infrastructure, inscription, force. It shapes how space is occupied, narrated, and denied. History is not given; it is produced, negotiated in both omissions and excess.<br> <br> 
+In this space, they collide.<br> <br>
+What you hear is not a restoration. It is a suggestion. A possibility. A disturbance.<br> <br>
+You are not here to discover. You are here to dwell in the uncertainty. To test what holds, what skips, what resists, not only what was, but what could have been, or should have been heard.<br> <br>
+Do not attempt to follow the map nor a path. Listen instead. Listen beyond hearing, to what resists capture. Toward a past heard in fragments, never in full…<br> <br>
 
-![saudi_map_gif](/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/saudi_map_10.gif)
- <br>
+![gif saudi map](/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/saudi_map_10.gif)
+<br>
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
-Notice how the city rearranges beneath your fingertips. Nothing here is entirely stable or fully known. Fragments of stories float free—catch them if you can, listen if you dare. History is never singular nor innocent.
+Do not attempt to follow the map. <br> <br>
+Listen instead. Listen beyond hearing, to what resists capture.<br> <br>
+Toward a past heard in fragments, never in full.
 <br><br>
 <b><i>Remember:</i></b> 
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 What you hear and what you don’t both tell a story.
 <br> <br>
+</p>
 
 <div style="width: 650px; margin: 0 auto; position: relative; padding-top: 56.25%;">
   <iframe 
@@ -39,9 +40,10 @@ What you hear and what you don’t both tell a story.
   </iframe>
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
+<br><br>
+<p style="text-align: justify; font-family: sans-serif;font-size: 12">
 This project is a screen-based reworking of a now-unavailable virtual tour of Al-Turaif Heritage Site, overlaying archival sound fragments and speculative audio traces onto the original interface. Through interruption, noise, and absence, the work reimagines the tour as an unstable archive—one that leaks.
 </p>
-<br><br>
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 <b><i>Map Error: Simulation Build 2056</i></b> is a speculative simulation built from a now-unavailable virtual tour of Al-Turaif Heritage Site—a digital interface once designed to guide users through a restored version of the site and its official historical narrative.
 It invites imaginary players into a simulation that becomes increasingly unstable. The virtual environment begins with coherence, but over time, ruptures emerge. New sounds overlay official ones. The logics of space and memory come undone.
@@ -85,6 +87,10 @@ Library of Congress, Geography and Map Division. "Maps of Saudi Arabia, 1400-202
 <h4>Sound and Visual Sources</h4>
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
 Almogbil, Alhanouf. Field recordings from Al Turaif, Wadi Hanifa, and Al Bathaa. Unpublished raw soundscape data, December 2024–January 2025.<br>
+
+<h4>Audio Archives</h4>
+<p style="text-align: left; font-family: sans-serif; font-size: 12">
 "برنامج في ظلال النخيل اذاعة الرياض من تسجيلي قبل نحو٢٥عام" Youtube video, posted by سعد بن ناعم  2016, https://www.youtube.com/watch?v=c_Iy3MiOQAs.<br>
 من الأرشيف: إذاعة المملكة العربية السعودية من الرياض نشرة الأخبار 1991م”, Youtube video, posted by Saudi Broadcasting Archive, 2021, https://www.youtube.com/watch?v=BbXNmRIf8cM.<br>
-Explore Map. (n.d.). Diriyah. Retrieved May 4, 2025, from https://www.diriyah.sa/en/explore-map.
+ 
+
