@@ -77,8 +77,6 @@ Lenape culture and practice view water as alive, and more-than-human. Robin Wall
 
 Surviving Lenape languages keep this movement alive, inviting the receding and flooding of the water. Language, as a living archive, contains records of worldviews, traditions, and culture. Lenape nouns, especially, suggest a living conceptualization of more-than-humans like water, using animate pronouns, “he,” “she,” or “they” to refer to what, in English, would otherwise be inanimate. Verbs thus become social, connecting two beings through interrelations. To demonstrate this – rather than providing a literary dictionary – we offer a video of Jamaica Bay overlaid with Lenape language to connect Lenape ontologies with place, suggesting new relationships that honor water’s personhood.  
 
-[![Rematriating the waterfront through Lenape Language](https://img.youtube.com/vi/q5YEF7yAh2s/0.jpg)](https://www.youtube.com/watch?v=q5YEF7yAh2s)  
-
 <video style = "width:100%; height:auto; vertical-align:middle; display: block; margin: 0 auto;" poster="/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal.png" controls>
   <source src="/conflict_urbanism_sp2025/images/Jaron_Seunghu/video.mp4" type="video/mp4">
 </video>
