@@ -5,7 +5,7 @@ image: "/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal.png"
 title:  "Deproblematizing Flooding by Problematizing the Waterfront"
 author: "Jaron Kaplan & Seunghu Kim"
 ---
-<br><br>
+<br>
 #### **We Picked the Wrong Fight!**  
 
 What is the waterfront? Images of beaches, docks, and promenades come to mind – recreational space lulled by the sound of crashing waves. The water ebbs and flows as the surface shifts, lapping at the shore. Our intuition understands the waterfront as a dynamic space of ever-changing waves and tides; so why then, do our maps define our waterfront with static lines? Water will always escape the neat boxes we draw to contain it.  
@@ -54,11 +54,11 @@ We propose the idea of the waterfront as an amorphous space in constant motion, 
 ![History of geoengineering of Jamaica Bay 2020](/conflict_urbanism_sp2025/images/Jaron_Seunghu/dredge2020.jpg)  
 
 The modern waterfront of Jamaica Bay is no different than da Cunha’s invented rivers. Figure 3 shows NYC borough, NYS civil, federal coastline, OpenStreetMap coastline, and NYC MapPluto boundaries laid upon a hillshade terrain of Jamaica Bay. These lines all hold critically important legal roles in defining jurisdiction, infrastructure, and water boundaries. So why, then, are they not concurrent?  
-
+<br>
 ![Legal boundary lines of Jamaica Bay](/conflict_urbanism_sp2025/images/Jaron_Seunghu/LegalGIF.gif)  
 
 It is because water is messy. It is ambiguous, ephemeral, and in constant motion. By overextending waterfront boundaries, governments absorb water into the terrestrial sphere of control; by underextending, they minimize risk. On sunny days, this difference matters, but during storm events, these boundaries dissolve. Figure Y shows a hillshade map of Jamaica Bay with the Hurricane Sandy inundation zone, 2050 100-year floodplain sea level rise projection, and FEMA FIRM map.  
-
+<br>
 ![Flooding of Jamaica Bay](/conflict_urbanism_sp2025/images/Jaron_Seunghu/Kaplan_Kim_Flooding.gif)  
 
 The ambiguity of the waterfront is complicated by these real or projected flood events which suggest that not only do current lines fail to reach consensus on a “waterfront” – they ultimately fail to hold any relevance for water’s summed presence upon the landscape.  
@@ -77,7 +77,7 @@ Lenape culture and practice view water as alive, and more-than-human. Robin Wall
 
 Surviving Lenape languages keep this movement alive, inviting the receding and flooding of the water. Language, as a living archive, contains records of worldviews, traditions, and culture. Lenape nouns, especially, suggest a living conceptualization of more-than-humans like water, using animate pronouns, “he,” “she,” or “they” to refer to what, in English, would otherwise be inanimate. Verbs thus become social, connecting two beings through interrelations. To demonstrate this – rather than providing a literary dictionary – we offer a video of Jamaica Bay overlaid with Lenape language to connect Lenape ontologies with place, suggesting new relationships that honor water’s personhood.  
 
-<video style = "width:100%; height:auto; vertical-align:middle; display: block; margin: 0 auto;" poster="/conflict_urbanism_sp2025/images/Jaron_Seunghu/JamaicaFinal.png" controls>
+<video style = "width:100%; height:auto; vertical-align:middle; display: block; margin: 0 auto;" poster="/conflict_urbanism_sp2025/images/Jaron_Seunghu/thumbnail.jpg" controls>
   <source src="/conflict_urbanism_sp2025/images/Jaron_Seunghu/video.mp4" type="video/mp4">
 </video>
 
