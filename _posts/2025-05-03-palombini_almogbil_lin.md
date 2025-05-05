@@ -27,7 +27,6 @@ Toward a past heard in fragments, never in full.
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 What you hear and what you don’t both tell a story.
 <br> <br>
-This project is a screen-based reworking of a now-unavailable virtual tour of Al-Turaif Heritage Site, overlaying archival sound fragments and speculative audio traces onto the original interface. Through interruption, noise, and absence, the work reimagines the tour as an unstable archive—one that leaks.
 </p>
 
 <div style="width: 650px; margin: 0 auto; position: relative; padding-top: 56.25%;">
@@ -42,6 +41,9 @@ This project is a screen-based reworking of a now-unavailable virtual tour of Al
 </div>
 <script src="https://player.vimeo.com/api/player.js"></script>
 <br><br>
+<p style="text-align: justify; font-family: sans-serif;font-size: 12">
+This project is a screen-based reworking of a now-unavailable virtual tour of Al-Turaif Heritage Site, overlaying archival sound fragments and speculative audio traces onto the original interface. Through interruption, noise, and absence, the work reimagines the tour as an unstable archive—one that leaks.
+</p>
 <p style="text-align: justify; font-family: sans-serif;font-size: 12">
 <b><i>Map Error: Simulation Build 2056</i></b> is a speculative simulation built from a now-unavailable virtual tour of Al-Turaif Heritage Site—a digital interface once designed to guide users through a restored version of the site and its official historical narrative.
 It invites imaginary players into a simulation that becomes increasingly unstable. The virtual environment begins with coherence, but over time, ruptures emerge. New sounds overlay official ones. The logics of space and memory come undone.
