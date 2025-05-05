@@ -10,7 +10,6 @@ author: "Erin Wen & Timothy Yoshimura Small"
   <source src="/conflict_urbanism_sp2025/images/Erin_Tim/subwaysafetyIntro.mp4" type="video/mp4">
 </video>
 <p></p> <br> 
-*the abrupt and comical ending is intentional. There really is nothing quite as absurd as groups upon groups of NYPD officers on the Subway platform, leaning against a support beam, playing Candy Crush. <br><br>
 
 <h4>The Study</h4>
 <p style="text-align: justify; font-family: sans-serif;">
@@ -93,53 +92,18 @@ Safety, like security, is about collective management (Ghertner et al., 2020). S
 <p style="text-align: left; font-family: sans-serif; font-size: 12">
   Allen, J. (2024, March 8). New York to deploy 750 National Guard soldiers to check bags on subway. Reuters. https://www.reuters.com/world/us/new-york-deploy-750-national-guard-soldiers-check-bags-subway-2024-03-06/ <br>
   Baker, A. (2017, December 13). City Police Officers Are Not Reporting All Street Stops, Monitor Says. The New York Times. https://www.nytimes.com/2017/12/13/nyregion/nypd-stop-and-frisk-monitor.html <br>
-Chalfin, A., Chohlas-Wood, A., and Williams Jr. M. (2024, June 6). Crime on the New York City Subway: 
-How rare is it really? Vital City.
-https://www.vitalcitynyc.org/articles/how-rare-is-crime-on-the-Subway <br>
   Chan, W. (2023, May 12). “It’s a failure of the system”: before Jordan Neely was killed, he was discarded. The Guardian. https://www.theguardian.com/us-news/2023/may/12/jordan-neely-new-york-social-services-support-mental-health <br>
   Chronopoulos, T. (2017). The Making of the Orderly City: New York since the 1980s. Journal of Urban History, 009614421770545. https://doi.org/10.1177/0096144217705459 <br>
   Dyson, I., Ayoub, E., & Jaloza, S. (2024). NYPD Continues to Dodge Surveillance Transparency Laws. Brennan Center for Justice. https://www.brennancenter.org/our-work/analysis-opinion/nypd-continues-dodge-surveillance-transparency-laws <br>
-  Ghertner, D.A., McFann, H., and Goldstein, D.M. Security Aesthetics of and beyond the Biopolitical. In Ghertner, D.A., McFann, H., and Goldstein, D.M. (Eds.), Futureproof: Security Aesthetics and the Management of Life, (pp. 1-32). Duke University Press. <br>
   Governor Kathy Hochul. (2025). Safer Subways: One Year After Deploying Additional Law Enforcement and Safety Measures, Governor Hochul Highlights Ongoing Efforts to Keep Riders and Transit Workers Safe on Subways. Governor Kathy Hochul. https://www.governor.ny.gov/news/safer-subways-one-year-after-deploying-additional-law-enforcement-and-safety-measures-governor <br>
   Harris, A. J., Ransom, J., & Jr, J. A. A. (2023, November 20). Behind 94 Acts of Shocking Violence, Years of Glaring Mistakes. The New York Times. https://www.nytimes.com/2023/11/20/nyregion/nyc-mental-illness-breakdowns.html <br>
-Harvey, D. (2019). Rebel Cities: From the Right to the City to the Urban Revolution. Verso. <br>
-Herman, E., and Chomsky, N. (1988). Manufacturing Consent: The Political Economy of the Mass 
-Media. Pantheon Books. <br>
-Heyward, G. (2024, December 18). Gov. Hochul says NYC Subways are safer – then sends in 250 
-National Guard troops.  
-https://gothamist.com/news/hochul-says-nyc-Subways-are-safer-then-sends-in-250-more-national-guard-troops <br>
-Kelling, G.L. and Wilson, J.Q. (1982, March). Broken Windows. The Atlantic. 
-https://www.theatlantic.com/magazine/archive/1982/03/broken-windows/304465/ <br>
   Kuntzman, G. (2025). Afraid of Crime in the Subway? It's all in your head. Streetsblog.org. https://nyc.streetsblog.org/2025/01/06/afraid-of-crime-in-the-subway-its-all-in-your-head-nypd-stats-say <br>
-Lane, C. (2025, February 7). Seeing more NYPD officers in the Subway? We explain what’s happening. 
-Gothamist. 
-https://gothamist.com/news/seeing-more-nypd-officers-in-the-Subway-we-explain-whats-happening <br>
-Lane, C. (2025, January 30). No panhandling, peeing or lying on Subway seats: NYPD launches new 
-quality-of-life division. Gothamist. 
-https://gothamist.com/news/no-panhandling-peeing-or-laying-on-Subway-seats-nypd-launches-new-quality-of-life-division <br>
-Mangual, R.A. (2025, February 7). The NYPD’s Long Overdue New Division. The City Journal. 
-https://www.city-journal.org/article/nypd-quality-of-life-division-new-york-city-safety <br>
-MTA. (n.d.). The MTA Network. MTA. 
-https://www.mta.info/about-us/the-mta-network. <br>
-MTA. (2025, January 27). MTA Customers Count Fall 2024 Survey Results MTA. 
-https://www.mta.info/article/mta-customers-count-fall-2024-survey-results <br>
   NYC.gov. (2025, April). Mayor Adams, NYPD Commissioner Tisch Launch new Quality of Life Division to Enhance Public Safety an. The Official Website of the City of New York. https://www.nyc.gov/office-of-the-mayor/news/218-25/mayor-adams-nypd-commissioner-tisch-launch-new-quality-life-division-enhance-public-safety#/0 <br>
 NYPD. (2025, January 6). Crime down across New York City in 2024, with 3,662 fewer crimes. NYPD. 
 https://www.nyc.gov/site/nypd/news/pr001/crime-down-across-new-york-city-2024-3-662-fewer-
 crimes <br>
-Office of the Mayor. (2025, January 6). Transcript: Mayor Adams and NYPD Commissioner Tisch 
-Announce Crime Down in 2024 [Press conference].
-https://www.nyc.gov/office-of-the-mayor/news/006-25/transcript-mayor-adams-nypd-commission
-er-tisch-crime-down-2024 <br>
-Pfaff, J. (2017). Locked in : The true causes of mass incarceration--and how to achieve real reform. Basic 
-Books. <br>
-Roberts, L.E., Mehranbod, C.A., Bushover, B., Bobaud, A.N., Eschliman, E.L., Fish, C., Zadey, S., Gao, 
-X. and Morrison, C.N. (2024). Trends in police complaints and arrests on New York City Subways, 2018 to 2023: an interrupted time-series analysis. Injury Epidemiology 11(16). <br>
   Schnitzer, K., & Pelletier, K. (2024, December 9). Daniel Penny celebrates not guilty verdict with lawyers at NYC bar. New York Post. https://nypost.com/2024/12/09/us-news/daniel-penny-celebrates-not-guilty-verdict-with-lawyers-at-nyc-bar/ <br>
-Sharpe, C. E. (2016). In the wake : On blackness and being. Duke University Press. <br>
   Susaneck, Adam Paul. “Segregation by Design.” TU Delft Centre for the Just City, 2024. https://www.segregationbydesign.com/ <br>
-Tuvikene, T., Sgibnev, W., Kębłowski, W., and Finch, J. (2023). Public transport as public space: 
-Introduction. Urban Studies 60(15): 2963-2978. <br>
 Vera Institute. (n.d.). A Look Inside the New York City Police Department Budget. Vera Institute of Justice. https://www.vera.org/publications/a-look-inside-the-new-york-city-police-department-budget 
 </p>
   <br> 
