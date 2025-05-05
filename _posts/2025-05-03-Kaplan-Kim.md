@@ -33,6 +33,7 @@ Geologic time, however, is unrelenting. Water is powerful, dynamic, and fluid. I
   
 
 
+
 #### The Lines of Jamaica Bay  
 
 New York City’s Jamaica Bay is no stranger to this practice of line drawing. Maps from as early as 1651 have used lines to draw the waterfront of the American frontier to enable through navigation, resource extraction, and the genocide of Indigenous peoples. Later mapping efforts in the 1700s and 1800s sought to survey New York’s waterfront to identify safe shipping channels and opportunities for infill. These tools for spatial control, as shown in the GIF below, became increasingly detailed to enable imaginaries of a controlled waterfront. Dirt, trash, and discarded oyster shells became new weapons of invasion, filling in marshland to create new space for development once New York had grown too large for its confines.  
