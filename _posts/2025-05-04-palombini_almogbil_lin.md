@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2025-03-25
-image: "/images/Palombini_Almogbil_Lin/final_saudi_main_image.png"
+image: "/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/final_saudi_main_image.png"
 title:  "Map Error: Simulation Build 2056"
 author: "Alhanouf Almogbil, Xinyi Alice Lin, Benedetta von Palombini"
 ---
@@ -22,7 +22,7 @@ Toward a past heard in fragments, never in full.
 <br>
 </p>
 
-![START SIMULATION](/images/Palombini_Almogbil_Lin/[START SIMULATION].gif)
+![START SIMULATION](/conflict_urbanism_sp2025/images/Palombini_Almogbil_Lin/[START SIMULATION].gif)
  <br>
 <p style="text-align: justify; font-family: sans-serif;">
 Notice how the city rearranges beneath your fingertips. Nothing here is entirely stable or fully known. Fragments of stories float free—catch them if you can, listen if you dare. History is never singular nor innocent.
