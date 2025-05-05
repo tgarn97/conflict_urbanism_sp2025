@@ -1,13 +1,17 @@
 ---
 layout: post
-date:   2025-03-25
+date:   2025-05-05
 image: "/template_site/images/csr_thumbnail.png"
-title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
+title:  "The Long-Term Cost of War: Does So-Called “Proportionality” Require a Redefinition?"
+author: "Taylor Garner"
 ---
+
+#### Introduction
+
+The now simmering conflict between Israel and Hezbollah, which escalated last September 2024, after almost a year of war between Israel and Hamas, has unearthed an uncomfortable reality around the disproportionate and long-lasting impacts of warfare. Civilians,  aid workers, and essential infrastructure have either been targeted or caught in the crossfire between the two actors, with the World Bank estimating a loss of US$8.5 billion in Lebanon due to physical damages and economic loss (World Bank, 2024). This project intends to look at what is missing in the equation of “proportionality”, specifically highlighting the long-term impacts such as 1. Loss of life, 2. Infrastructure damage, and 3. Loss of humanitarian aid and healthcare workers. This project aims to go deeper than recounting the number of attacks or fatalities, but to understand how the attacks may inflict long-term harm on communities. 
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism, Spring 2025 you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+
 
 [This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
 
