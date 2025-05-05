@@ -30,8 +30,6 @@ Dilip da Cunha, a professor and landscape architect, explores the power of the l
 Geologic time, however, is unrelenting. Water is powerful, dynamic, and fluid. It does not obey terrestrial laws of physics. These lines easily dissolve as storm surges, cloudbursts, waves, and sea level rise demonstrate water’s verticality, reclaiming land through flooding and erosion. Harold Fisk’s famous Mississippi River maps diagram water’s power, constantly snaking through the landscape to carve new terrains. This diagram forces one to rethink the idea of the “waterfront;” by understanding historic water-land interfaces, we can begin to imagine the summed presence of water in a landscape, not just its momentary appearance.  
 
 ![Harold Fisk's Mississippi River Diagram](/conflict_urbanism_sp2025/images/Jaron_Seunghu/HaroldFiskMap1944.jpg)  
-  
-
 
 
 #### The Lines of Jamaica Bay  
