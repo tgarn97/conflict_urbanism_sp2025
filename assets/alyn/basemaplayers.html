@@ -2,50 +2,21 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Map with Toggleable Smart Cities Layer</title>
+  <title>Test Smart Cities Layer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
   <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
   <style>
     body { margin: 0; padding: 0; font-family: sans-serif; }
     #map { position: absolute; top: 0; bottom: 0; width: 100%; }
-    #controls {
-      position: absolute;
-      top: 10px;
-      left: 10px;
-      background: white;
-      padding: 15px;
-      border-radius: 4px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.3);
-      z-index: 1;
-    }
-    #title {
-      font-weight: bold;
-      margin-bottom: 10px;
-    }
-    button {
-      background-color: #4CAF50; 
-      color: white; 
-      padding: 10px 20px; 
-      border: none; 
-      border-radius: 4px;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #45a049;
-    }
   </style>
 </head>
 <body>
-
-<div id="controls">
-  <div id="title">Toggle Smart Cities in Artsakh</div>
-  <button id="toggle-smartcities">Turn On</button>
-</div>
 <div id="map"></div>
 
 <script>
   mapboxgl.accessToken = 'pk.eyJ1IjoiamFja2llZGFuaWVseSIsImEiOiJjbWE5encyNmIxc2w0MmpxOXk2ejFpN2t2In0.qmH-L93EYvz2EoBp4pdorw';
+
   const map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/jackiedaniely/cmaaame12000i01qsatys5e3w',
@@ -54,24 +25,22 @@
   });
 
   map.on('load', () => {
-    // Add Smart Cities in Artsakh GeoJSON layer
-    const sourceId = 'smartcitiesinartsakh-source';
-    const layerId = 'smartcitiesinartsakh-layer';
-
-    map.addSource(sourceId, {
+    map.addSource('smartcitiesinartsakh-source', {
       type: 'geojson',
       data: 'https://raw.githubusercontent.com/CenterForSpatialResearch/conflict_urbanism_sp2025/refs/heads/master/assets/alyn/smartcitiesinartsakh3.geojson'
     });
 
     map.addLayer({
-      id: layerId,
+      id: 'smartcitiesinartsakh-layer',
       type: 'fill',
-      source: sourceId,
+      source: 'smartcitiesinartsakh-source',
       paint: {
         'fill-color': 'red',
         'fill-opacity': 1
       }
     });
+  });
+</script>
 
-    // Default to the layer being visible
-    map.
+</body>
+</html>
